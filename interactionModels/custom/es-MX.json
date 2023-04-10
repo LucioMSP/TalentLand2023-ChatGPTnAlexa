@@ -36,7 +36,9 @@
             "dame informacion {question}",
             "que sabes de {question}",
             "dime {question}",
-            "pregunta {question}"
+            "pregunta {question}",
+            "quien es {question}"
+            
           ]
         }
       ],
